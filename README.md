@@ -1,2 +1,2 @@
 # BTD_Python
-Python ML project with brain MRI images for brain tumor detection
+Machine Learning project in Python for the detection of cancerous tissue in brain MRIs.
